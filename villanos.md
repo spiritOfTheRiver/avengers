@@ -1,5 +1,4 @@
 #Villanos
 
 * Ultron
-* Thanos
-* Capitán America 
+* Thanos 
